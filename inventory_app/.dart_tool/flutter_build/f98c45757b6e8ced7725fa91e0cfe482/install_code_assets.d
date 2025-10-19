@@ -1,0 +1,1 @@
+ C:\\Users\\Edward\\Desktop\\PDA\\inventory_app\\.dart_tool\\flutter_build\\f98c45757b6e8ced7725fa91e0cfe482\\native_assets.json: 
