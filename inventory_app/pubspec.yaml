@@ -1,0 +1,25 @@
+name: inventory_app
+description: "A new Flutter project."
+publish_to: 'none' # 私人專案勿上傳 pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Flutter 官方與第三方套件
+  cupertino_icons: ^1.0.8
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  fluttertoast: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
